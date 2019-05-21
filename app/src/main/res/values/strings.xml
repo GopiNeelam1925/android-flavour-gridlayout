@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Flavour and Gridlayout</string>
+    <string name="giphy_api">zCUKl2JrJ1nqh67PxW61ULlLQBHkTk7m</string>
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="no_gif_found">No gif image found</string>
+    <string name="view_trending_gifs">View trending gifs</string>
+
+</resources>

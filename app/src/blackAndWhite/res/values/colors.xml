@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#666666</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#cccccc</color>
+
+    <!-- Random colors for gridlayout cells -->
+    <color name="color1">#000000</color>
+    <color name="color2">#191919</color>
+    <color name="color3">#323232</color>
+    <color name="color4">#4c4c4c</color>
+    <color name="color5">#666666</color>
+    <color name="color6">#7f7f7f</color>
+    <color name="color7">#999999</color>
+    <color name="color8">#b2b2b2</color>
+    <color name="color9">#cccccc</color>
+    <color name="color10">#ffffff</color>
+
+</resources>
